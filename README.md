@@ -20,7 +20,7 @@
 
 ### Пример работы
 
-![ddd](https://github.com/user-attachments/assets/e4017a04-1792-421b-98aa-aeacdb2aa0f8)
+![ddd](https://github.com/user-attachments/assets/e651ffbf-e90b-4ce7-9692-61e0c4b601b9)
 
 ---
 
